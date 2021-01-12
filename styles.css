@@ -1,0 +1,41 @@
+.table {
+  border: 1px solid #000;
+}
+table,
+td {
+  border: 1px solid #000;
+  font-size: 22px;
+  height: 30px;
+}
+
+thead,
+tfoot {
+  background-color: rgb(142, 171, 233);
+  color: #000;
+}
+
+th {
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+#asistente {
+  height: 40px;
+}
+
+#wea {
+  position: relative;
+  left: 400px;
+  top: 10px;
+}
+
+#wea2 {
+  position: relative;
+  right: 400px;
+  top: 10px;
+}
+
+#wea3 {
+  font-size: 18px;
+  line-height: 32px;
+}
